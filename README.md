@@ -10,7 +10,7 @@ Linguagens que já estudei / estou estudando:
 - MySql
 - Bootstrap
 
-Aqui estão alguns links para plataforma de cursos que uso:
+Aqui estão alguns links para plataformas de cursos que uso:
 
 - <a href="https://digitalinnovation.one"/>Digital Inovvation One Inc.</a>
 - <a href="https://www.udemy.com/"/>Udemy</a>
