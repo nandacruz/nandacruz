@@ -7,8 +7,11 @@ Linguagens que já estudei / estou estudando:
 - HTML | CSS | JavaScript | PhP
 - Java
 - C#
+- C++
 - MySql
 - Bootstrap
+- Angular
+- React
 
 Aqui estão alguns links para plataformas de cursos que uso:
 
