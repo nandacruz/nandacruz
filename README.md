@@ -1,8 +1,8 @@
 ### Bem vindo!👋
 
-Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento de Sistemas e gosto muito da área de Desenvolvimento Web (principalmente Front - End), conforme vou estudando ou fazendo cursos na área posto meus projetos aqui para mostrar o conteúdo que estou me apronfundando e possivelmente ajudar novos desenvolvedores nessa longa jornada :grin:. Pretendo me tornar Desenvolvedora Web | Front End e ou trabalhar nas áreas que envolvem Design.
+Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento de Sistemas e gosto muito da área de Desenvolvimento Web (principalmente Front - End), conforme vou estudando ou fazendo cursos na área posto meus projetos aqui para mostrar o conteúdo que estou me apronfundando e possivelmente ajudar novos desenvolvedores nessa longa jornada :grin:.
 
-Linguagens que já estudei / estou estudando:
+<h3>Linguagens que já estudei / estou estudando:</h3>
 
 - HTML | CSS | JavaScript | PhP
 - Java
@@ -12,6 +12,13 @@ Linguagens que já estudei / estou estudando:
 - Bootstrap
 - Angular
 - React
+
+<h3>Áreas de Interesse</h3>
+
+- Desenvolvimento Web
+- Front End
+- UX/UI
+- Design e afins
 
 Aqui estão alguns links para plataformas de cursos que uso:
 
