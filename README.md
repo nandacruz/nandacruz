@@ -25,7 +25,7 @@ Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento d
 - <a href="https://digitalinnovation.one"/>Digital Inovvation One Inc.</a>
 - <a href="https://www.udemy.com/"/>Udemy</a>
 
-
+<h4>Linkedin: </h4> https://www.linkedin.com/in/fernandadmc/
 <!--
 **nandacruz/nandacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
