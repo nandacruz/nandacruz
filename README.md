@@ -20,7 +20,7 @@ Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento d
 - UX/UI
 - Design e afins
 
-Aqui estão alguns links para plataformas de cursos que uso:
+<h4>Aqui estão alguns links para plataformas de cursos que uso:</h4>
 
 - <a href="https://digitalinnovation.one"/>Digital Inovvation One Inc.</a>
 - <a href="https://www.udemy.com/"/>Udemy</a>
