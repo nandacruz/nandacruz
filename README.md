@@ -10,6 +10,9 @@ Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento d
 - C++
 - MySql
 - Bootstrap
+
+<h3>Pretendo estudar:</h3>
+
 - Angular
 - React
 
