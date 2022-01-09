@@ -29,14 +29,13 @@ Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento d
 - UX/UI
 - Design e afins
 
-<h4>Aqui estão alguns links para plataformas de cursos que uso:</h4>
 
-- <a href="https://digitalinnovation.one"/>Digital Inovvation One Inc.</a>
-- <a href="https://www.udemy.com/"/>Udemy</a>
-
-<h4>Linkedin: </h4> https://www.linkedin.com/in/fernandadmc/
-
-![Snake animation](https://github.com/nandacruz/nandacruz/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <a href = "mailto:fernanda.moura.cruz98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernandadmc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/nandacruz/nandacruz/blob/output/github-contribution-grid-snake.svg)
+</div>
  
 <!--
 **nandacruz/nandacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
