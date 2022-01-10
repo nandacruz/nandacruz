@@ -10,7 +10,7 @@ Olá !, me chamo Fernanda 💻
 
 @@I'm a software developer@@
 
-+ Vivo São Paulo, Brazil 🇧🇷.
++ Vivo São em Paulo, Brazil 🇧🇷.
 ! Dedicada, comunicativa
 - Tenho 23 anos
 > 📖 Gosto de Front, Ux e UI.
