@@ -1,13 +1,25 @@
 ### Bem vindo!👋
 
-
-
-
-<div align="center">
-  <p>Olá ! :blush:, me chamo Fernanda, sou Estudante de Análise e Desenvolvimento de Sistemas e gosto muito da área de Desenvolvimento Web (principalmente Front - End), conforme vou estudando ou fazendo cursos na área posto meus projetos aqui para mostrar o conteúdo que estou me apronfundando e possivelmente ajudar novos desenvolvedores nessa longa jornada.
-<p>
-  <img  height="auto" alt="laptop" width="400em" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif" width="700" height="394" role="presentation"/>
+<div align="center" >
+<img align="right" height="auto" width="300em" alt="laptop"  src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif" width="700" height="394" role="presentation"/>
 </div>
+
+
+```diff
+Olá !, me chamo Fernanda 💻
+
+@@I'm a software developer@@
+
++ Vivo São Paulo, Brazil 🇧🇷.
+! Dedicada, comunicativa
+- Tenho 23 anos
+> 📖 Gosto de Front, Ux e UI.
+
+
+```
+
+
+
 
 <h2 dir="auto"></h2>
 
