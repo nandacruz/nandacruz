@@ -12,7 +12,7 @@ Olá !, me chamo Fernanda 💻
 
 + Vivo em São Paulo, Brazil 🇧🇷.
 ! Dedicada, comunicativa
-- Tenho 24 anos
+- Tenho 25 anos
 > 📖 Gosto de Front, Ux e UI.
 
 
