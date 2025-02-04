@@ -24,9 +24,8 @@ Olá !, me chamo Fernanda 💻
 <h2 dir="auto"></h2>
 
 <div align="left">
-  <a href="https://github.com/nandacruz">
-    <!--
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=nandacruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
+  <a href="https://github.com/nandacruz">    
+    <img height="180"  src="https://github-readme-stats.vercel.app/api?username=nandacruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandacruz&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div><br/> 
@@ -59,7 +58,11 @@ Olá !, me chamo Fernanda 💻
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
 
 <br/>    
 
