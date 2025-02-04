@@ -79,12 +79,16 @@ Olá !, me chamo Fernanda 💻
 
 <div align="center">
   
-  <a href = "mailto:fernanda.moura.cruz98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandadmc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--
-  ![Snake animation](https://github.com/nandacruz/nandacruz/blob/output/github-contribution-grid-snake.svg)
--->
+  <a href = "mailto:fernanda.moura.cruz98@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+  width="52" height="40" alt="gmail logo"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/fernandadmc/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a> 
 </div>
+
+
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nandacruz/count.svg?"  />
